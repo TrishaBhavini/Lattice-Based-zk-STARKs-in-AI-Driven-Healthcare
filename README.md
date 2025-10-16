@@ -8,7 +8,7 @@ The dataset and CNN model used in this project are based on the following GitHub
 
 Follow the steps below to set up and run the pipeline.
 
-### 1. 📦 Clone the Repository
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/TrishaBhavini/Lattice-Based-zk-STARKs-in-AI-Driven-Healthcare.git
 cd Lattice-Based-zk-STARKs-in-AI-Driven-Healthcare
@@ -47,7 +47,7 @@ After downloading, place them in the same directory as your script:
 
 ---
 
-### 3. 🧰 Install Dependencies
+### 3. Install Dependencies
 
 Make sure you have **Python 3.9+** installed. Then, install the required libraries:
 
@@ -111,7 +111,7 @@ Saved sequential_totals.png
 Saved batch_times.png
 ```
 
-### 🧠 Reference
+### Reference
 
 Model & dataset source:
 [Rishav Chanda – Brain Tumor Detection](https://github.com/rishavchanda/Brain-Tumor-Detection)
