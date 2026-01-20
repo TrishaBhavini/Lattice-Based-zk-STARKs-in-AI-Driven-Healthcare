@@ -1,0 +1,15 @@
+[package]
+name = "ml_stark_prover"
+version = "0.1.0"
+edition = "2024_07"
+
+[cairo]
+enable-gas = false
+
+[dependencies]
+cairo_execute = "2.13.1"
+
+[[target.executable]]
+name = "ml_stark_prover_exe"
+main = "src/lib.cairo"
+sierra = true
