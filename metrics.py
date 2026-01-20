@@ -97,7 +97,7 @@ def verification_latency_vs_size(base_leaves, sizes, trials=20):
 
 
 # =============================================================================
-# 4. Baseline Metrics (Your Existing Ones)
+# 4. Baseline Metrics
 # =============================================================================
 
 def evaluate_tamper_detection(leaves, trials=100):
@@ -167,7 +167,7 @@ def plot_latency_vs_size(sizes, latencies):
 
 
 # =============================================================================
-# 6. One-Call Runner (Use This)
+# 6. One-Call Runner
 # =============================================================================
 
 def run_all_metrics(all_leaves):
